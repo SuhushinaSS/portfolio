@@ -408,7 +408,18 @@
                 "thumb": "@PROJECT_PATH@/assets/images/11-2000x1408-9-2000x1408-66.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11-2000x1408-9.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Курсы повышения квалификации",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1370-800x548.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1370.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
               }
             ]
           },
