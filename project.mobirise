@@ -153,7 +153,13 @@
           },
           "title": "СУХУШИНА СВЕТЛАНА СЕРГЕЕВНА",
           "text": "Преподаватель математики и информатики",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDI</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDI</a> ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_name": "footer1",
