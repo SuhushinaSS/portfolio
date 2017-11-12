@@ -449,10 +449,11 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1414-45-2000x1414-92.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-2000x1414-45.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1578x1080-800x547.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-1578x1080.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": true,
+                "alt": ""
               }
             ]
           },
