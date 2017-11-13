@@ -418,6 +418,38 @@
                 "thumb": "@PROJECT_PATH@/assets/images/9-2000x1370-800x548.jpg",
                 "image": "@PROJECT_PATH@/assets/images/9-2000x1370.jpg",
                 "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Стажировка",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1412-23-2000x1412-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1412-23.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Организация",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo3-2000x2773-800x1109.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo3-2000x2773.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Организация",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo4-2000x2773-800x1109.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo4-2000x2773.jpg",
+                "caption": "Type caption here",
                 "active": true,
                 "alt": ""
               }
