@@ -432,7 +432,7 @@
                 "active": false
               },
               {
-                "tags": "Организация",
+                "tags": "Организация внеучебной деятельности",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -443,12 +443,12 @@
                 "alt": ""
               },
               {
-                "tags": "Организация",
+                "tags": "Организация внеучебной деятельности",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo4-2000x2773-800x1109.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo4-2000x2773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo4-1-2000x2773-800x1109.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo4-1-2000x2773.jpg",
                 "caption": "Type caption here",
                 "active": true,
                 "alt": ""
@@ -483,6 +483,39 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1578x1080-800x547.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-1578x1080.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-1724x2470-800x1146.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-1724x2470.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-2-1670x2434-800x1165.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-2-1670x2434.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-3-1643x2447-800x1191.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-3-1643x2447.jpg",
                 "caption": "Type caption here",
                 "active": true,
                 "alt": ""
