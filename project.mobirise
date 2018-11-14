@@ -19,10 +19,11 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.10.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 11,
     "versionPublish": "4.3.2",
     "path": "@PROJECT_PATH@"
   },
@@ -112,12 +113,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0.gif",
+              "src": "@PROJECT_PATH@/assets/images/tomtit-129x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -125,8 +125,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ОГБПОУ<br>\"Томский лесотехничсекий <br>техникум\"<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-2\">ОБЩИЕ СВЕДЕНИЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-4\">ДОСТИЖЕНИЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-7\">МЕТОДИЧЕСКИЕ РАЗРАБОТКИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ОГБПОУ<br>\"Томский техникум <br>информационных технологий\"<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-2\">ОБЩИЕ СВЕДЕНИЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-4\">ДОСТИЖЕНИЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-7\">МЕТОДИЧЕСКИЕ РАЗРАБОТКИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-8\">ОБРАТНАЯ СВЯЗЬ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-4\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -240,7 +240,7 @@
             }
           },
           "title": "ОБЩИЕ СВЕДЕНИЯ<br>",
-          "text": "С 2014 года по настоящее время преподаватель математики в ОГБПОУ \"Томский лесотехнический техникум\".<br>Общий педагогический стаж: 10 лет, в данном образовательном учреждении - 3 года.<br><br><br>ОБРАЗОВАНИЕ<br><br>ГОУ ВПО \"Томский государственный педагогический университет\", квалификация \"Учитель информатики\" по специальности \"Информатика\", 2007 г.<br><br>ФГБОУ ВПО \"Томский государственный педагогический университет\", квалификация (степень) магистр по направлению подготовки \"Прикладная математика и информатика\", 2013 г.",
+          "text": "2007-2009 гг - учитель информатики МОУ гимназия № 56.<br>2009-2014 гг - преподаватель информатики ОГБПОУ \"Томский аграрный колледж\"<br><br>2014-2018 гг преподаватель математики в ОГБПОУ \"Томский лесотехнический техникум\".<br><br>С 2018 года по настоящее время работаю преподавателем информатики в ОГБПОУ \"Томский техникум информационных технологий\".<br><br>Общий педагогический стаж: 11 лет, в данном образовательном учреждении - 3 месяца.<br><br><br>ОБРАЗОВАНИЕ<br><br>ГОУ ВПО \"Томский государственный педагогический университет\", квалификация \"Учитель информатики\" по специальности \"Информатика\", 2007 г.<br><br>ФГБОУ ВПО \"Томский государственный педагогический университет\", квалификация (степень) магистр по направлению подготовки \"Прикладная математика и информатика\", 2013 г.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -472,7 +472,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "filterBgColor": true,
-            "bgColor": "#000000",
+            "bgColor": "#cccccc",
             "showText": false,
             "filter": false,
             "images": [
@@ -527,6 +527,63 @@
           "allItem": "All"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ОБРАТНАЯ СВЯЗЬ",
+          "subtitle": "Заполнете форму обратной связи и я обязательно отвечу на Ваши вопросы и предложения",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
+          "form": {
+            "action": "shumkovass@icloud.com",
+            "alerts": {
+              "success": "Спасибо, что написали мне!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-8",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -546,13 +603,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0.gif",
+              "src": "@PROJECT_PATH@/assets/images/tomtit-128x126.jpg",
               "width": 128,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -560,7 +616,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Образовательное &nbsp;учреждение</strong><br>ОГБПОУ \"Томский лесотехнический техникум\",<br>г. Томск, ул. Карла Маркса, д. 22",
+          "text1": "<strong>Образовательное &nbsp;учреждение</strong><br>ОГБПОУ \"Томский техникум информационных технологий\",<br>г. Томск, ул. Герцена, д. 18",
           "text2": "<strong>Контакты</strong><br>\nEmail: shumkovass@mail.ru<br><br>",
           "text3": ""
         }
